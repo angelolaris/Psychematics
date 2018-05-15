@@ -1,2 +1,2 @@
-# Psychematics
-PaperClipMan
+Psychematics
+
